@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pomodoro-manager/static/css/main.cc1d7f31.css",
-    "main.js": "/pomodoro-manager/static/js/main.5c09b326.js",
+    "main.js": "/pomodoro-manager/static/js/main.f617c8df.js",
     "static/js/453.66b2cab8.chunk.js": "/pomodoro-manager/static/js/453.66b2cab8.chunk.js",
     "index.html": "/pomodoro-manager/index.html",
     "main.cc1d7f31.css.map": "/pomodoro-manager/static/css/main.cc1d7f31.css.map",
-    "main.5c09b326.js.map": "/pomodoro-manager/static/js/main.5c09b326.js.map",
+    "main.f617c8df.js.map": "/pomodoro-manager/static/js/main.f617c8df.js.map",
     "453.66b2cab8.chunk.js.map": "/pomodoro-manager/static/js/453.66b2cab8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc1d7f31.css",
-    "static/js/main.5c09b326.js"
+    "static/js/main.f617c8df.js"
   ]
 }
