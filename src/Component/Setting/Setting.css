@@ -1,0 +1,37 @@
+.parts{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.input{
+    width: 50px;
+    color: rgb(0, 24, 159);
+    font-size: large;
+}
+
+.btn{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.btnMenu{
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.btn:hover{
+    background-color: rgba(240, 248, 255, 0.299);
+}
+
+.btnMenu:hover{
+    background-color: rgba(240, 248, 255, 0.299);
+}
+
+.longBtn{
+    width: 200px;
+}

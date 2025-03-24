@@ -1,0 +1,15 @@
+{
+  "short_name": "Pomodoro Manager",
+  "name": "Pomodoro Manager",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "189x189"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

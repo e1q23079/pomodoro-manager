@@ -1,0 +1,16 @@
+.status{
+    font-size: xx-large;
+    font-weight: bold;
+    height: 20px;
+}
+
+.counter{
+    font-size: x-large;
+    height: 20px;
+}
+
+.circle{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
