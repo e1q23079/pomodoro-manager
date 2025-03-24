@@ -62,7 +62,7 @@ const breakStart = () => {
 
 const openSetting = () => {
   setLocalStrage(countTime,toDoTime,breakTime,status,counter);
-  window.location.href = '/#/setting';
+  window.location.href = '/pomodoro-manager/#/setting';
 };
 
 

@@ -10,7 +10,7 @@ const volumeTest = () => {
 };
 
 const about = () => {
-    window.location.href = '/#/about';
+    window.location.href = '/pomodoro-manager/#/about';
 };
 
 const getWorkTime = () => {
@@ -41,7 +41,7 @@ const Setting = () => {
         localStorage.setItem("breakTime",inpBreakTime.current.value);
         localStorage.setItem("counter",inpCount.current.value);
         localStorage.setItem("volume",inpVolume.current.value/10);
-        window.location.href = '/';
+        window.location.href = '/pomodoro-manager/';
     };
 
     const setVolume = () => {
@@ -55,7 +55,7 @@ const Setting = () => {
             localStorage.setItem("counter",0);
             localStorage.setItem("nowTime",3/60);
             localStorage.setItem("status",false);
-            window.location.href = '/';
+            window.location.href = '/pomodoro-manager/';
         }
     };
 

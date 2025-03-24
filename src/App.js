@@ -41,7 +41,7 @@ const Top = () => {
 };
 
 const back = () => {
-  window.location.href = '/#/setting'
+  window.location.href = '/pomodoro-manager/#/setting'
 }
 
 const About = () => {
